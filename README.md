@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Wilson</h1>
 <h3 align="center">A passionate software Engineer from Cameroon</h3>
 
-<img align="right" alt="font" width="400" src="https://res.cloudinary.com/dqdq4c1c8/image/upload/v1690305335/hacker-lj7znezbwb0nuba4_qplrz2.gif" />
+<img align="right" alt="font" width="400" src="https://res.cloudinary.com/dqdq4c1c8/image/upload/v1690306389/coding-typing_al7mkg.gif" />
 
 - 🌱 I’m currently learning **NodeJS, Docker**
 
