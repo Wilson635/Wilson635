@@ -14,7 +14,7 @@
 
 ### 📝 My Articles
 - I write regularly on [Stack Overflow](https://stackoverflow.com/users/wilson)
-- I write regularly on [LinkedIn]([https://stackoverflow.com/users/wilson](https://www.linkedin.com/in/wilson-ngahemeni/))
+- I write regularly on [LinkedIn](https://www.linkedin.com/in/wilson-ngahemeni/)
 
 ### 💬 Ask Me About
 - **JavaScript frameworks**
