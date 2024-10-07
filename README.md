@@ -18,8 +18,7 @@
 
 ### 💬 Ask Me About
 - **JavaScript frameworks**
-- **Web development**
-- **Mobile development**
+- **Web and Mobile development**
 - **IA**
 
 ### 📫 How to Reach Me
