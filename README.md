@@ -31,10 +31,9 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://codepen.io/ngahemeniw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/wilson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/ngahemeniw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/wilson" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://codepen.io/ngahemeniw" target="blank">![Codepen](https://skillicons.dev/icons?i=codepen)</a>
+  <a href="https://dev.to/wilson" target="blank">![Devto](https://skillicons.dev/icons?i=devto)</a>
+  <a href="https://stackoverflow.com/users/wilson" target="blank">![stackoverflow](https://skillicons.dev/icons?i=stackoverflow)</a>
   <a href="https://codesandbox.com/ngahemeniw" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="CodeSandbox" height="30" width="40" /></a>
 </p>
 
